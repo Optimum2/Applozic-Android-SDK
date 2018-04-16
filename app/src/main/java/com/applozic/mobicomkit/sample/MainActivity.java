@@ -100,7 +100,7 @@ public class MainActivity extends AppCompatActivity
             finish();
             return;
         }
-        jiya();
+        jiya("pihuuuu");
 
 
         mNavigationDrawerFragment = (NavigationDrawerFragment)
@@ -408,7 +408,8 @@ public class MainActivity extends AppCompatActivity
         }
 
     }
-    public void jiya(){}
+    public void jiya(String sonali){
+    }
     
 
 }
