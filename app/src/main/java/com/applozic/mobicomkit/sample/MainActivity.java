@@ -100,6 +100,7 @@ public class MainActivity extends AppCompatActivity
             finish();
             return;
         }
+        jiya();
 
 
         mNavigationDrawerFragment = (NavigationDrawerFragment)
@@ -407,5 +408,7 @@ public class MainActivity extends AppCompatActivity
         }
 
     }
+    public void jiya(){}
+    
 
 }
